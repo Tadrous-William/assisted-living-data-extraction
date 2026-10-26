@@ -5,8 +5,9 @@ This project extracts structured data (facility names, addresses, phone numbers,
 
 ## Files
 - **Assisted-Living-List.pdf** – Original source file.
-- **assisted_living_clean.csv** – Final cleaned dataset (~40 records).
-- **Script.py** – Python script used for extraction & cleaning.
+- **assisted_living_list_extracted.csv** – Final cleaned dataset (~40 records).
+- **script.py** – Python script used for extraction & cleaning.
+- **PDF Data Extraction and Cleaning.pdf** – Short report on the process.
 
 ## Features
 - Automated PDF text extraction.
@@ -26,4 +27,4 @@ This project extracts structured data (facility names, addresses, phone numbers,
 | Atria Bay Springs Village| 147 Bay Spring Ave       | 401 -246-2500 |https://atriaseniorliving.com   |
 
 ## Author
-Tadrous Adel – Data Extraction & Cleaning
+[Tadrous William](https://github.com/Tadrous-William) – Data Extraction & Cleaning
